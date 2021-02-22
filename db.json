@@ -89,11 +89,33 @@
     "title": "eveniet quod temporibus",
     "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae"
   }],
+  "comments": [
+      {
+        "id": 1,
+        "body": "some comment 1",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment 2",
+        "postId": 1
+      },
+      {
+        "id": 3,
+        "body": "some comment 3",
+        "postId": 2
+      },
+      {
+        "id": 4,
+        "body": "some comment 4",
+        "postId": 3
+      }
+  ],
   "user": [{
-    "userId": 1,
+    "id": 1,
     "name": "John"
   }, {
-    "userId": 2,
+    "id": 2,
     "name": "Tom"
   }]
 }
